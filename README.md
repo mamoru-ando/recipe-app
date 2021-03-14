@@ -1,24 +1,11 @@
-# README
+目的：飲食店におけるレシピ情報を効率的に蓄積する事と、原価計算を簡単に算出できるようにするため
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+課題解決：
+  レシピが手書きのメモ帳のみ、という情報の管理だと共有が困難なため
+  原価計算を簡単に算出できるようにすることで、原価を意識したメニューの作成が可能になる
+  昨対でレシプやメニューを振り返ることで、人気商品の再投入やバージョンアップ、新規メニュー開発の参考になりうる
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+環境
+  Rails 6.0.3
+  mysql
+  ruby 2.6.5
